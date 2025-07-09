@@ -1,0 +1,13 @@
+
+---
+
+## 🛠 Optional: `requirements.txt`
+
+Add this file to make setup easier:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
